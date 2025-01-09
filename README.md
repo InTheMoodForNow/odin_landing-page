@@ -1,0 +1,1 @@
+Working on the landing page project provided by The Odin Project as part of their Foundations curriculum.
